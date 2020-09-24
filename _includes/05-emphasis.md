@@ -1,0 +1,1 @@
+Soy un **contador** egresado de la __*Universidad Nacional Mayor de San Marcos*__, actualmente estoy complementando mis conocimientos de la carrera con el mundo de la **programación**, empezando con lenguajes como __*VBA Excel*__, __*Java*__ y __*Visual Basic .Net*__, enfocando mis proyectos en **programas empresariales y contables**.

@@ -2,15 +2,11 @@
 <details>
    <summary>Hobbies</summary>
    
-- :books: Estudiar.
-
-- :runner: Ejercicios
-
-- :notes: Música
-
-    - :cd: Descubrir canciones. 
-    
-    - :guitar: Tocar el charango. 
+- Estudiar.
+- Ejercicios
+- Música
+    - Descubrir canciones. 
+    - Tocar el charango. 
     
 </details>
    

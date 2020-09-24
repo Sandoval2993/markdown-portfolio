@@ -1,0 +1,1 @@
+![Foto de José Sandoval en un mural de Monumental Callao](https://scontent.flim4-2.fna.fbcdn.net/v/t1.0-9/22089714_10210889385366888_4679605961278317578_n.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_eui2=AeG_yCFJUht622pQj1zWrFsWB-2RWUFcVvMH7ZFZQVxW8yHsRkwLHOjYpEc4sozhhuo&_nc_ohc=rQjUELy3TnsAX_ixbIG&_nc_ht=scontent.flim4-2.fna&oh=6ef88e5995765cd8bd3a11cbe08294a4&oe=5F92B0EC)

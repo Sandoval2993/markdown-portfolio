@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* :books: Estudiar.
+* :runner: Ejercicios
+* :notes: Música
+    * :cd: Descubrir canciones. 
+    * :guitar:Tocar el charango.
